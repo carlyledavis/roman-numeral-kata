@@ -1,0 +1,23 @@
+{
+  "name": "roman-numeral-kata",
+  "version": "0.0.0",
+  "description": "Roman Numeral Kata files",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "roman",
+    "numeral",
+    "kata"
+  ],
+  "author": "Carlyle S. Davis",
+  "license": "BSD-2-Clause",
+  "devDependencies": {
+    "mocha": "~1.20.1",
+    "chai": "~1.9.1"
+  }
+}
